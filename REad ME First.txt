@@ -1,0 +1,24 @@
+******* Read all points carefully ********
+
+1. import all modules which used in Emma.py and use in other .py files.
+
+2. to use twitter bot provide credential in acc_info.txt file
+
+3. for user authentication , place your current image named <user.jpg> in "image" folder.
+
+4.Files and their functions :-
+  
+	a)Emma.py -> main file to run
+	
+	b)EmmaUI.py
+	  EmmaUI.ui 
+	  1png and 2gifs file-> for GUI
+
+	d)chromedriver.exe
+	  acc_info.txt
+	  Twitterbot.py -> for auto tweet from your account
+
+	e)MyAlarm.py -> to set alarm by voice command
+	
+	f)REad ME First.txt -> to understand the project
+
